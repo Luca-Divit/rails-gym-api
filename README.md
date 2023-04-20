@@ -1,5 +1,5 @@
 <p align="center"><img src="https://img.shields.io/badge/Rails-7.0.4-ff0000?style=plastic&logo=rubyonrails" /> <img src="https://img.shields.io/badge/ruby-3.1.2-ff0000?style=plastic&logo=ruby" /></p>
-<h1>Rails Gym Api</h1>
+<h1>Rails Gym Api 💪</h1>
 <p>Is a RESTful API built with <a href="https://rubyonrails.org">Ruby on Rails</a> containing gym excersises divided by muscles groups</p>
 
 
