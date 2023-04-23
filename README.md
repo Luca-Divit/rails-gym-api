@@ -2,7 +2,7 @@
 <h1>Rails Gym Api 💪</h1>
 <p>A RESTful API built with <a href="https://rubyonrails.org">Ruby on Rails</a> containing gym excersises divided by muscles groups</p>
 <h2>How to use</h2>
-<p>🚧 Work in Progres.. 🚧</p>
+<p>🚧 Work in Progres... 🚧</p>
 
 
 <p align="center"><a href="https://hits.sh/github.com/Luca-Divit/rails-gym-api/"><img alt="Hits" src="https://hits.sh/github.com/Luca-Divit/rails-gym-api.svg?style=plastic&label=Visitors&color=007ec6"/></a></p>
