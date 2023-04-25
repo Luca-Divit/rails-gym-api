@@ -2,6 +2,11 @@
 <h1>Rails Gym Api 💪</h1>
 <p>A RESTful API built with <a href="https://rubyonrails.org">Ruby on Rails</a> containing gym excersises divided by muscles groups</p>
 <h2>How to use</h2>
+
+    GET
+    POST
+    PUT/PATCH
+    DELETE
 <p>🚧 Work in Progres... 🚧</p>
 
 
