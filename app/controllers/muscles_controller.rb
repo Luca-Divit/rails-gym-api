@@ -14,7 +14,7 @@ class MusclesController < ApplicationController
     if muscle.save
       render json: muscle
     else
-      render json: { error: "Unable to create muscle" }, status: 400
+      render json: { error: 'Unable to create muscle' }, status: 400
     end
   end
 
@@ -23,7 +23,7 @@ class MusclesController < ApplicationController
     if muscle.update
       render json: muscle
     else
-      render json: { error: "Unable to modify muscle" }, status: 400
+      render json: { error: 'Unable to modify muscle' }, status: 400
     end
   end
 
@@ -33,7 +33,7 @@ class MusclesController < ApplicationController
       muscle.destroy
       render json: muscle, status: 200
     else
-      render json: { error: "Unable to destroy muscle" }, status: 400
+      render json: { error: 'Unable to destroy muscle' }, status: 400
     end
   end
 
