@@ -7,7 +7,7 @@
     POST
     PUT/PATCH
     DELETE
-<p>🚧 Work in Progres... 🚧</p>
+<p align="center">🚧 Work in Progres... 🚧</p>
 
 
 <p align="center"><a href="https://hits.sh/github.com/Luca-Divit/rails-gym-api/"><img alt="Hits" src="https://hits.sh/github.com/Luca-Divit/rails-gym-api.svg?style=plastic&label=Visitors&color=007ec6"/></a></p>
